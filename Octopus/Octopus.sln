@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Octopus", "Octopus\Octopus.dtproj", "{493B6B00-5DB0-4589-92AF-17E3C78F2AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493B6B00-5DB0-4589-92AF-17E3C78F2AEB}.Development|Default.ActiveCfg = Development
+		{493B6B00-5DB0-4589-92AF-17E3C78F2AEB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DCC221-0E7B-4C08-BAB7-7AC74413C8BD}
+	EndGlobalSection
+EndGlobal
